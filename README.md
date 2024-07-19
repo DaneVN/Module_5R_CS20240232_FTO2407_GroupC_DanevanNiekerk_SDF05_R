@@ -38,3 +38,12 @@ Embark on this CSS journey to transform simple buttons into interactive, animate
 - Submit the link to your GitHub repository on the LMS under the project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+
+
+## My Contrbution:
+    1. Style/design choices:
+        - button1: In your face, attention grabber.
+        - button2: Glow affect
+        - button3: Avoiding/shy button
+    2. Features:
+        - The text in button3 also shrinking away: the text of the button didn't act how  wanted it to, it was probably the hardest part of this button that neede fixing.
